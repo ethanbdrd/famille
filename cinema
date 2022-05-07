@@ -2,17 +2,16 @@
 <html lang="fr">
 <head>
 	<meta charset="utf_8">
-	<title>Composants PC</title>
+	<title>Cinéma</title>
 
 		<link rel="stylesheet"  href="style2.css"> 
 		
 </head>
 <body >
 	<header>
-		<h1>Monter son PC Gamer de A à Z</h1>
-<center><img id="logo" src="pc.jfif" /> <img id="logo" src="pc.jfif" /> <img id="logo" src="pc.jfif" /> <img id="logo" src="pc.jfif" /> <img id="logo" src="pc.jfif" /> <img id="logo" src="pc.jfif" /></center>
+		<h1>Cinéma</h1>
 		<a href="index.html" ><--Retour</a>
-<h2>La formation complete</h2>
+<h2>Choisir votre type de film</h2>
 					<center><a href="https://www.ldlc.com/configurateur-pc/"><img id="logo" src="f326d73489ed9cf23f6e53e616816094_XL.jpg" /></a> 
 				
 		
